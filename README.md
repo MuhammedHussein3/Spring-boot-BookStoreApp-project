@@ -1,5 +1,4 @@
-# Book Store App
-## built using :
+# Book Store App built using :
 ### Spring Boot 
 ### Spring Aop
 ### Design principles
